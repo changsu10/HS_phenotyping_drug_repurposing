@@ -3,7 +3,7 @@ Hidradenitis Suppurativa is a chronic inflammatory skin disease with significant
 
 ![Pipeline](./figure1.png?raw=true "Title")
 
-## EHR cormorbidity analysis
+## EHR comorbidity analysis
 
 ## Single Cell RNA-seq Analysis
 **1.integration_cellTypeAnnotation**:We integrate the NYU data and two public datasets (GSE173706 and GSE195452) using Harmony. We then annotate cell types based on marker genes.
